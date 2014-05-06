@@ -2,11 +2,15 @@
 
 # students:
 Manuel Baumann
-
-
-
-
-
+Reinaldo Astudillo
+Guido Oud
+Rohit Gupta
+Fahim Raees
+Thea Vuik
+Yue Qiu
+1
+2
+3
 
 # staff:
 Kees Vuik
